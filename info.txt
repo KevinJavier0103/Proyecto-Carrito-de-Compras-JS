@@ -1,3 +1,3 @@
-INfo nueva
-    Otra nueva info
-    
+Pryecto desarollado unicamente usando JS,html,css.
+Este proyecto permite conocer como se maneja el uso de 
+manejo del DOM usando JS. 
